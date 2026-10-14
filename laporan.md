@@ -1,5 +1,3 @@
----
-
 <div align="center">
 
 # TUGAS KOMUNIKASI DAN JARINGAN KOMPUTER
