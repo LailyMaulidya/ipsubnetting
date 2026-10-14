@@ -155,25 +155,25 @@ Berikut adalah tangkapan layar tabel routing yang digunakan sebagai dokumentasi 
 
 Dokumentasi hasil pengujian konektivitas pada percobaan pertama:
 
-![Hasil ping jaringan](assets/gambar-03.png)
-
-![Hasil ping jaringan](assets/gambar-04.png)
-
-![Hasil ping jaringan](assets/gambar-05.png)
-
-![Hasil ping jaringan](assets/gambar-06.png)
-
 Jaringan yang Sama
 
 PC 0 ke PC 1
 
+![Hasil ping jaringan](assets/gambar-03.png)
+
 PC 4 ke PC 3
+
+![Hasil ping jaringan](assets/gambar-04.png)
 
 Jaringan Berbeda
 
 PC 1 ke PC 4
 
+![Hasil ping jaringan](assets/gambar-05.png)
+
 PC 3 ke PC 2
+
+![Hasil ping jaringan](assets/gambar-06.png)
 
 ## 4.2 Routing dengan Dua Router
 
@@ -186,34 +186,37 @@ Topologi jaringan untuk percobaan dua router ditunjukkan pada gambar berikut.
 ### 4.2.2 Konfigurasi IP Address, Subnet Mask, dan Default Gateway pada PC
 
 Contoh konfigurasi IP address pada PC untuk percobaan dua router:
+**PC5:**
 
 ![Konfigurasi IP address PC](assets/gambar-13.png)
 
+**PC6:**
+
 ![Konfigurasi IP address PC](assets/gambar-23.png)
+
+**PC7:**
 
 ![Konfigurasi IP address PC](assets/gambar-27.png)
 
+**PC8:**
+
 ![Konfigurasi IP address PC](assets/gambar-28.png)
+
+**PC9:**
 
 ![Konfigurasi IP address PC](assets/gambar-29.png)
 
 ![Konfigurasi IP address PC](assets/gambar-30.png)
 
-**PC5:**
-
-**PC6:**
-
-**PC7:**
-
-**PC8:**
-
-**PC9:**
-
 ### 4.2.3 Konfigurasi Router
 
 Dokumentasi konfigurasi interface router:
 
+**Router1:**
+
 ![Konfigurasi interface router](assets/gambar-14.png)
+
+**Router2:**
 
 ![Konfigurasi interface router](assets/gambar-15.png)
 
@@ -225,57 +228,54 @@ Dokumentasi konfigurasi interface router:
 
 ![Konfigurasi interface router](assets/gambar-32.png)
 
-**Router1:**
-
-**Router2:**
-
 ### 4.2.4 Konfigurasi Static Routing
 
 Tangkapan layar konfigurasi rute statis pada router:
 
-![Konfigurasi static routing](assets/gambar-18.png)
-
-![Konfigurasi static routing](assets/gambar-19.png)
-
 **Router1:**
 
+![Konfigurasi static routing](assets/gambar-18.png)
+
 **Router2:**
+
+![Konfigurasi static routing](assets/gambar-19.png)
 
 ### 4.2.5 Tabel Routing
 
 Hasil pemeriksaan tabel routing setelah static route ditambahkan:
 
-![Tabel routing](assets/gambar-20.png)
-
-![Tabel routing](assets/gambar-21.png)
-
 **Router1:**
 
+![Tabel routing](assets/gambar-20.png)
+
 **Router2:**
+
+![Tabel routing](assets/gambar-21.png)
 
 ### 4.2.6 Tes Ping
 
 Dokumentasi hasil pengujian ping pada percobaan dua router:
 
-![Hasil ping](assets/gambar-22.png)
-
-![Hasil ping](assets/gambar-24.png)
-
-![Hasil ping](assets/gambar-25.png)
-
-![Hasil ping](assets/gambar-26.png)
-
 Jaringan yang Sama
 
 PC 6 ke PC 5
 
+![Hasil ping](assets/gambar-22.png)
+
 PC 8 ke PC 9
+
+![Hasil ping](assets/gambar-24.png)
 
 Jaringan Berbeda
 
 PC 7 ke PC 8
 
+![Hasil ping](assets/gambar-25.png)
+
 PC 9 ke PC 6
+
+![Hasil ping](assets/gambar-26.png)
+
 
 # 5. Hasil dan Pembahasan
 
