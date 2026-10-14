@@ -1,3 +1,5 @@
+---
+
 <div align="center">
 
 # TUGAS KOMUNIKASI DAN JARINGAN KOMPUTER
@@ -555,3 +557,5 @@ Pada percobaan kedua, penggunaan dua router memerlukan jaringan transit dan konf
 Selain itu, praktikum ini menunjukkan bahwa ARP berfungsi menemukan alamat MAC perangkat pada jaringan lokal, ICMP digunakan untuk menguji konektivitas melalui ping, sedangkan TTL membatasi umur paket selama proses pengiriman melalui jaringan. Ketiga mekanisme tersebut mendukung proses komunikasi, tetapi memiliki fungsi yang berbeda.
 
 Secara keseluruhan, praktikum ini memberikan pemahaman mengenai perbedaan routing pada jaringan satu router dan dua router, pentingnya konfigurasi alamat IP dan gateway, serta penggunaan tabel routing untuk menentukan jalur pengiriman paket. Pemeriksaan konfigurasi dan pengujian konektivitas secara bertahap dapat membantu mengidentifikasi masalah dan memastikan komunikasi jaringan berjalan dengan baik.
+
+---
