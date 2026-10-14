@@ -67,13 +67,6 @@ ip route 192.168.1.0 255.255.255.0 192.168.3.1
 
 Ping pertama yang menampilkan `Request timed out` tidak otomatis membuktikan ARP sebagai penyebabnya. ARP adalah salah satu kemungkinan; penyebab perlu diverifikasi melalui Simulation Mode dan pemeriksaan konfigurasi.
 
-## Cara Membaca Laporan
-
-Buka [`laporan.md`](laporan.md) untuk membaca uraian tugas dalam format Markdown. Folder `assets/` berisi gambar yang diekstrak dari dokumen Word sumber. Jika ingin menampilkan gambar tertentu di bagian laporan, tambahkan tautan Markdown, misalnya:
-
-```markdown
-![Topologi jaringan](assets/gambar-01.png)
-```
 
 ## Referensi
 
@@ -81,5 +74,3 @@ Buka [`laporan.md`](laporan.md) untuk membaca uraian tugas dalam format Markdown
 - Repositori materi: [computer-and-network-2026](https://github.com/ferryas-pens/computer-and-network-2026)
 
 ---
-
-Dokumentasi ini dibuat berdasarkan dokumen tugas praktikum yang disediakan. Pastikan identitas, alamat IP, tangkapan layar, dan hasil pengujian diperiksa kembali sebelum repositori dipublikasikan.
