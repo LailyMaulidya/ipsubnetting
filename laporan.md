@@ -1,3 +1,4 @@
+<div align="center">
 # TUGAS KOMUNIKASI DAN JARINGAN KOMPUTER
 
 ## IP SUBNETTING
@@ -20,6 +21,7 @@
 
 **2026**
 
+</div>
 ---
 
 # 1. Tujuan Praktikum
