@@ -23,7 +23,6 @@
 **2026**
 
 </div>
----
 
 # 1. Tujuan Praktikum
 
