@@ -1,0 +1,8 @@
+# Temporary files
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+
+# Cisco Packet Tracer autosaves/backups (optional)
+*.bak
