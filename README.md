@@ -1,6 +1,10 @@
-# Praktikum IP Subnetting dan Static Routing
+<div align="center">
 
-Dokumentasi tugas Komunikasi dan Jaringan Komputer menggunakan **Cisco Packet Tracer**. Repositori ini disusun dalam format Markdown agar mudah dibaca melalui GitHub, dengan struktur dokumentasi yang terinspirasi dari repositori materi jaringan dosen.
+# PRAKTIKUM IP SUBNETTING DAN ROUTING
+
+# KOMUNIKASI DAN JARINGAN KOMPUTER
+
+</div>
 
 ## Informasi Praktikum
 
