@@ -305,9 +305,8 @@ Default gateway berfungsi sebagai tujuan pengiriman paket ketika komputer ingin 
 
 Setelah konfigurasi IP pada komputer selesai, tahap berikutnya adalah memberikan alamat IP pada interface router yang terhubung ke masing-masing jaringan. Konfigurasi dilakukan melalui Command Line Interface (CLI) router.
 
-```text
-Interface FastEthernet0/0 dikonfigurasi menggunakan alamat IP 192.168.1.1 dengan subnet mask 255.255.255.0. Interface FastEthernet1/0 dikonfigurasi menggunakan alamat IP 192.168.2.1 dengan subnet mask yang sama.
-```
+Interface FastEthernet0/0 dikonfigurasi menggunakan alamat IP `192.168.1.1` dengan subnet mask `255.255.255.0.`
+Interface FastEthernet1/0 dikonfigurasi menggunakan alamat IP `192.168.2.1` dengan subnet mask yang sama.
 
 Pada tahap awal pemeriksaan, perintah show ip interface brief menunjukkan bahwa kedua interface masih berada dalam kondisi administratively down. Kondisi tersebut berarti interface dinonaktifkan secara administratif sehingga belum dapat digunakan untuk meneruskan paket data.
 
