@@ -118,7 +118,7 @@ Default gateway merupakan alamat IP interface router yang digunakan perangkat ak
 
 Topologi jaringan untuk percobaan satu router ditunjukkan pada gambar berikut.
 
-![Topologi jaringan satu router](assets/gambar-01.png)
+![Topologi jaringan satu router](assets/gambar-02.png)
 
 ### 4.1.2 Konfigurasi IP Address, Subnet Mask, dan Default Gateway pada PC
 
@@ -126,37 +126,36 @@ Contoh konfigurasi IP address pada PC ditunjukkan pada tangkapan layar berikut.
 
 **PC0:**
 
-![Konfigurasi IP address PC](assets/gambar-02.png)
+![Konfigurasi IP address PC](assets/gambar-03.png)
 
 **PC1:**
 
-![Konfigurasi IP address PC](assets/gambar-03.png)
+![Konfigurasi IP address PC](assets/gambar-04.png)
 
 **PC2:**
 
-![Konfigurasi IP address PC](assets/gambar-04.png)
+![Konfigurasi IP address PC](assets/gambar-05.png)
 
 **PC3:**
 
-![Konfigurasi IP address PC](assets/gambar-05.png)
+![Konfigurasi IP address PC](assets/gambar-06.png)
 
 **PC4:**
 
-![Konfigurasi IP address PC](assets/gambar-06.png)
+![Konfigurasi IP address PC](assets/gambar-07.png)
 
 ### 4.1.3 Konfigurasi Router
 
 **Router0:**
 
-![Konfigurasi Router](assets/gambar-06.png)
-
-![Konfigurasi IP address PC](assets/gambar-07.png)
+![Konfigurasi Router](assets/gambar-08.png)
+![Konfigurasi Router](assets/gambar-09.png)
 
 ### 4.1.4 Tabel Routing
 
 Berikut adalah tangkapan layar tabel routing yang digunakan sebagai dokumentasi pemeriksaan rute.
 
-![Tabel routing router](assets/gambar-08.png)
+![Tabel routing router](assets/gambar-10.png)
 
 ### 4.1.5 Tes Ping
 
@@ -166,29 +165,29 @@ Jaringan yang Sama
 
 PC 0 ke PC 1
 
-![Hasil ping jaringan](assets/gambar-09.png)
-![Hasil ping jaringan](assets/gambar-10.png)
 ![Hasil ping jaringan](assets/gambar-11.png)
+![Hasil ping jaringan](assets/gambar-12.png)
+![Hasil ping jaringan](assets/gambar-13.png)
 
 PC 4 ke PC 3
 
-![Hasil ping jaringan](assets/gambar-12.png)
-![Hasil ping jaringan](assets/gambar-13.png)
 ![Hasil ping jaringan](assets/gambar-14.png)
+![Hasil ping jaringan](assets/gambar-15.png)
+![Hasil ping jaringan](assets/gambar-16.png)
 
 Jaringan Berbeda
 
 PC 1 ke PC 4
 
-![Hasil ping jaringan](assets/gambar-15.png)
-![Hasil ping jaringan](assets/gambar-16.png)
 ![Hasil ping jaringan](assets/gambar-17.png)
+![Hasil ping jaringan](assets/gambar-18.png)
+![Hasil ping jaringan](assets/gambar-19.png)
 
 PC 3 ke PC 2
 
-![Hasil ping jaringan](assets/gambar-18.png)
-![Hasil ping jaringan](assets/gambar-19.png)
 ![Hasil ping jaringan](assets/gambar-20.png)
+![Hasil ping jaringan](assets/gambar-21.png)
+![Hasil ping jaringan](assets/gambar-22.png)
 
 ## 4.2 Routing dengan Dua Router
 
@@ -196,101 +195,102 @@ PC 3 ke PC 2
 
 Topologi jaringan untuk percobaan dua router ditunjukkan pada gambar berikut.
 
-![Topologi jaringan dua router](assets/gambar-21.png)
+![Topologi jaringan dua router](assets/gambar-23.png)
 
 ### 4.2.2 Konfigurasi IP Address, Subnet Mask, dan Default Gateway pada PC
 
 Contoh konfigurasi IP address pada PC untuk percobaan dua router:
 
-![Konfigurasi IP address PC](assets/gambar-13.png)
-
-![Konfigurasi IP address PC](assets/gambar-23.png)
-
-![Konfigurasi IP address PC](assets/gambar-27.png)
-
-![Konfigurasi IP address PC](assets/gambar-28.png)
-
-![Konfigurasi IP address PC](assets/gambar-29.png)
-
-![Konfigurasi IP address PC](assets/gambar-30.png)
-
 **PC5:**
+
+![Konfigurasi IP address PC](assets/gambar-24.png)
 
 **PC6:**
 
+![Konfigurasi IP address PC](assets/gambar-25.png)
+
 **PC7:**
+
+![Konfigurasi IP address PC](assets/gambar-26.png)
 
 **PC8:**
 
+![Konfigurasi IP address PC](assets/gambar-27.png)
+
 **PC9:**
+
+![Konfigurasi IP address PC](assets/gambar-28.png)
 
 ### 4.2.3 Konfigurasi Router
 
 Dokumentasi konfigurasi interface router:
 
-![Konfigurasi interface router](assets/gambar-14.png)
-
-![Konfigurasi interface router](assets/gambar-15.png)
-
-![Konfigurasi interface router](assets/gambar-16.png)
-
-![Konfigurasi interface router](assets/gambar-17.png)
-
-![Konfigurasi interface router](assets/gambar-31.png)
-
-![Konfigurasi interface router](assets/gambar-32.png)
-
 **Router1:**
 
+![Konfigurasi interface router](assets/gambar-29.png)
+![Konfigurasi interface router](assets/gambar-30.png)
+
 **Router2:**
+
+![Konfigurasi interface router](assets/gambar-31.png)
+![Konfigurasi interface router](assets/gambar-32.png)
 
 ### 4.2.4 Konfigurasi Static Routing
 
 Tangkapan layar konfigurasi rute statis pada router:
 
-![Konfigurasi static routing](assets/gambar-18.png)
-
-![Konfigurasi static routing](assets/gambar-19.png)
-
 **Router1:**
 
+![Konfigurasi static routing](assets/gambar-33.png)
+
 **Router2:**
+
+![Konfigurasi static routing](assets/gambar-34.png)
 
 ### 4.2.5 Tabel Routing
 
 Hasil pemeriksaan tabel routing setelah static route ditambahkan:
 
-![Tabel routing](assets/gambar-20.png)
-
-![Tabel routing](assets/gambar-21.png)
-
 **Router1:**
 
+![Tabel routing](assets/gambar-35.png)
+
 **Router2:**
+
+![Tabel routing](assets/gambar-36.png)
 
 ### 4.2.6 Tes Ping
 
 Dokumentasi hasil pengujian ping pada percobaan dua router:
 
-![Hasil ping](assets/gambar-22.png)
-
-![Hasil ping](assets/gambar-24.png)
-
-![Hasil ping](assets/gambar-25.png)
-
-![Hasil ping](assets/gambar-26.png)
-
 Jaringan yang Sama
 
 PC 6 ke PC 5
 
+![Hasil ping](assets/gambar-37.png)
+![Hasil ping](assets/gambar-38.png)
+![Hasil ping](assets/gambar-39.png)
+
 PC 8 ke PC 9
+
+![Hasil ping](assets/gambar-40.png)
+![Hasil ping](assets/gambar-41.png)
+![Hasil ping](assets/gambar-42.png)
 
 Jaringan Berbeda
 
 PC 7 ke PC 8
 
+![Hasil ping](assets/gambar-43.png)
+![Hasil ping](assets/gambar-44.png)
+![Hasil ping](assets/gambar-45.png)
+
 PC 9 ke PC 6
+
+![Hasil ping](assets/gambar-46.png)
+![Hasil ping](assets/gambar-47.png)
+![Hasil ping](assets/gambar-48.png)
+
 
 # 5. Hasil dan Pembahasan
 
@@ -570,13 +570,4 @@ Selain itu, praktikum ini menunjukkan bahwa ARP berfungsi menemukan alamat MAC p
 
 Secara keseluruhan, praktikum ini memberikan pemahaman mengenai perbedaan routing pada jaringan satu router dan dua router, pentingnya konfigurasi alamat IP dan gateway, serta penggunaan tabel routing untuk menentukan jalur pengiriman paket. Pemeriksaan konfigurasi dan pengujian konektivitas secara bertahap dapat membantu mengidentifikasi masalah dan memastikan komunikasi jaringan berjalan dengan baik.
 
-## Lampiran Gambar
-
-Gambar hasil ekstraksi dari dokumen Word disimpan pada folder [`assets/`](assets/). Nama file mengikuti urutan ekstraksi dari dokumen sumber.
-
-
 ---
-
-# Lampiran Gambar
-
-Gambar-gambar pada laporan ini ditampilkan pada bagian praktikum yang relevan. Semua berkas gambar berada di folder `assets/` pada repositori yang sama.
