@@ -6,6 +6,8 @@
 
 ### CISCO PACKET TRACER
 
+![Logo Politeknik Elektronika Negeri Surabaya](assets/gambar-01.png)
+
 **Nama:** Laily Maulidya Purwanti
 
 **NRP:** 122680025
@@ -17,8 +19,6 @@
 **JURUSAN INFORMATIKA DAN KOMPUTER**
 
 **POLITEKNIK ELEKTRONIKA NEGERI SURABAYA**
-
-![Logo Politeknik Elektronika Negeri Surabaya](assets/gambar-01.png)
 
 **2026**
 
@@ -118,63 +118,77 @@ Default gateway merupakan alamat IP interface router yang digunakan perangkat ak
 
 Topologi jaringan untuk percobaan satu router ditunjukkan pada gambar berikut.
 
-![Topologi jaringan satu router](assets/gambar-07.png)
+![Topologi jaringan satu router](assets/gambar-01.png)
 
 ### 4.1.2 Konfigurasi IP Address, Subnet Mask, dan Default Gateway pada PC
 
 Contoh konfigurasi IP address pada PC ditunjukkan pada tangkapan layar berikut.
 
-![Konfigurasi IP address PC](assets/gambar-08.png)
-
-![Konfigurasi IP address PC](assets/gambar-09.png)
-
-![Konfigurasi IP address PC](assets/gambar-10.png)
-
-![Konfigurasi IP address PC](assets/gambar-11.png)
-
 **PC0:**
+
+![Konfigurasi IP address PC](assets/gambar-02.png)
 
 **PC1:**
 
+![Konfigurasi IP address PC](assets/gambar-03.png)
+
 **PC2:**
+
+![Konfigurasi IP address PC](assets/gambar-04.png)
 
 **PC3:**
 
+![Konfigurasi IP address PC](assets/gambar-05.png)
+
 **PC4:**
+
+![Konfigurasi IP address PC](assets/gambar-06.png)
 
 ### 4.1.3 Konfigurasi Router
 
 **Router0:**
 
+![Konfigurasi Router](assets/gambar-06.png)
+
+![Konfigurasi IP address PC](assets/gambar-07.png)
+
 ### 4.1.4 Tabel Routing
 
 Berikut adalah tangkapan layar tabel routing yang digunakan sebagai dokumentasi pemeriksaan rute.
 
-![Tabel routing router](assets/gambar-02.png)
+![Tabel routing router](assets/gambar-08.png)
 
 ### 4.1.5 Tes Ping
 
 Dokumentasi hasil pengujian konektivitas pada percobaan pertama:
 
-![Hasil ping jaringan](assets/gambar-03.png)
-
-![Hasil ping jaringan](assets/gambar-04.png)
-
-![Hasil ping jaringan](assets/gambar-05.png)
-
-![Hasil ping jaringan](assets/gambar-06.png)
-
 Jaringan yang Sama
 
 PC 0 ke PC 1
 
+![Hasil ping jaringan](assets/gambar-09.png)
+![Hasil ping jaringan](assets/gambar-10.png)
+![Hasil ping jaringan](assets/gambar-11.png)
+
 PC 4 ke PC 3
+
+![Hasil ping jaringan](assets/gambar-12.png)
+![Hasil ping jaringan](assets/gambar-13.png)
+![Hasil ping jaringan](assets/gambar-14.png)
 
 Jaringan Berbeda
 
 PC 1 ke PC 4
 
+![Hasil ping jaringan](assets/gambar-15.png)
+![Hasil ping jaringan](assets/gambar-16.png)
+![Hasil ping jaringan](assets/gambar-17.png)
+
 PC 3 ke PC 2
+
+![Hasil ping jaringan](assets/gambar-18.png)
+![Hasil ping jaringan](assets/gambar-19.png)
+![Hasil ping jaringan](assets/gambar-20.png)
 
 ## 4.2 Routing dengan Dua Router
 
@@ -182,7 +196,7 @@ PC 3 ke PC 2
 
 Topologi jaringan untuk percobaan dua router ditunjukkan pada gambar berikut.
 
-![Topologi jaringan dua router](assets/gambar-12.png)
+![Topologi jaringan dua router](assets/gambar-21.png)
 
 ### 4.2.2 Konfigurasi IP Address, Subnet Mask, dan Default Gateway pada PC
 
